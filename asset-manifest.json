@@ -1,0 +1,15 @@
+{
+  "main.css": "/facedetect/static/css/main.fef5ebdb.chunk.css",
+  "main.js": "/facedetect/static/js/main.0cda1edd.chunk.js",
+  "main.js.map": "/facedetect/static/js/main.0cda1edd.chunk.js.map",
+  "static/css/1.0a87fe3a.chunk.css": "/facedetect/static/css/1.0a87fe3a.chunk.css",
+  "static/js/1.c11ba39c.chunk.js": "/facedetect/static/js/1.c11ba39c.chunk.js",
+  "static/js/1.c11ba39c.chunk.js.map": "/facedetect/static/js/1.c11ba39c.chunk.js.map",
+  "runtime~main.js": "/facedetect/static/js/runtime~main.862a8f25.js",
+  "runtime~main.js.map": "/facedetect/static/js/runtime~main.862a8f25.js.map",
+  "static/css/main.fef5ebdb.chunk.css.map": "/facedetect/static/css/main.fef5ebdb.chunk.css.map",
+  "static/css/1.0a87fe3a.chunk.css.map": "/facedetect/static/css/1.0a87fe3a.chunk.css.map",
+  "index.html": "/facedetect/index.html",
+  "precache-manifest.d040bc8b656ed0039ca3a6ca866127b5.js": "/facedetect/precache-manifest.d040bc8b656ed0039ca3a6ca866127b5.js",
+  "service-worker.js": "/facedetect/service-worker.js"
+}
